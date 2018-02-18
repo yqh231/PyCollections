@@ -1,2 +1,2 @@
-# PyCollections
-Python事例
+# PyCollections 
+Python示例
